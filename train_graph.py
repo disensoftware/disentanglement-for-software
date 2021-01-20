@@ -156,8 +156,8 @@ def draw_metrics_baselines():
     # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -210,8 +210,8 @@ def draw_metrics_baselines():
     ax = axisartist.Subplot(figure, 111)
     figure.add_axes(ax)
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
     box_plot_final = []
     for i in range(len(box_plot_list)):
         box_plot_final.append(box_plot_list[i])
@@ -288,8 +288,8 @@ def draw_dlr_baseline():
     # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -340,8 +340,8 @@ def draw_dlr_baseline():
     ds_bilstmlist = [box_list[len(box_list) - 1] for box_list in box_plot_list_purity_3]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
     # box_plot_final = []
     # for i in range(len(box_plot_list)):
     #     box_plot_final.append(box_plot_list[i])
@@ -512,8 +512,8 @@ def draw_dlr_baseline():
     # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -542,8 +542,8 @@ def draw_dlr_baseline():
     # figure.add_axes(ax)
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     project_list = []
     for i in range(8):
@@ -604,8 +604,8 @@ def draw_dlr_baseline():
     # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -634,8 +634,8 @@ def draw_dlr_baseline():
     # figure.add_axes(ax)
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     project_list = []
     for i in range(8):
@@ -722,8 +722,8 @@ def draw_final_result():
     # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
 
     # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -774,8 +774,8 @@ def draw_final_result():
     ds_bilstmlist = [box_list[len(box_list) - 1] for box_list in box_plot_list_purity_3]
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
     # box_plot_final = []
     # for i in range(len(box_plot_list)):
     #     box_plot_final.append(box_plot_list[i])
@@ -977,8 +977,8 @@ def draw_final_result():
         project_list.append(f'P{i + 1}')
 
     # plt.rc('font', family='Times New Roman')
-    # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    #     plt.plot(project, metrics, color=color, label=label)
+    # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    #     plt.plot(project, experiment, color=color, label=label)
     # box_plot_final = []
     # for i in range(len(box_plot_list)):
     #     box_plot_final.append(box_plot_list[i])
@@ -1186,8 +1186,8 @@ def draw_final_result():
     # # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
     #
     # # plt.rc('font', family='Times New Roman')
-    # # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    # #     plt.plot(project, metrics, color=color, label=label)
+    # # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    # #     plt.plot(project, experiment, color=color, label=label)
     #
     # # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -1216,8 +1216,8 @@ def draw_final_result():
     # # figure.add_axes(ax)
     #
     # # plt.rc('font', family='Times New Roman')
-    # # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    # #     plt.plot(project, metrics, color=color, label=label)
+    # # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    # #     plt.plot(project, experiment, color=color, label=label)
     #
     # project_list = []
     # for i in range(8):
@@ -1270,8 +1270,8 @@ def draw_final_result():
     # # all_data = [np.random.normal(0, std, 100) for std in range(1, 4)]
     #
     # # plt.rc('font', family='Times New Roman')
-    # # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    # #     plt.plot(project, metrics, color=color, label=label)
+    # # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    # #     plt.plot(project, experiment, color=color, label=label)
     #
     # # plt.boxplot(box_plot_list, positions=[1, 2, 3, 4, 5, 6, 7, 8], notch=True, widths=0.3, showfliers=False)
     # # plt.xticks([1, 2, 3, 4, 5, 6, 7, 8], project_list)
@@ -1300,8 +1300,8 @@ def draw_final_result():
     # # figure.add_axes(ax)
     #
     # # plt.rc('font', family='Times New Roman')
-    # # for project, metrics, color, label in zip(project_list, metrics_list, color_list, label_list):
-    # #     plt.plot(project, metrics, color=color, label=label)
+    # # for project, experiment, color, label in zip(project_list, metrics_list, color_list, label_list):
+    # #     plt.plot(project, experiment, color=color, label=label)
     #
     # project_list = []
     # for i in range(8):
@@ -2063,11 +2063,11 @@ def draw_box_plot_distribution():
             project_list += [project] * len(values_differences)
             difference_list += values_differences
             metric_list += [metric_use] * len(values_differences)
-    data_frame = {'project': project_list, 'differences': difference_list, 'metrics': metric_list}
+    data_frame = {'project': project_list, 'differences': difference_list, 'experiment': metric_list}
     pd_temp = pd.DataFrame(data_frame)
     plt.subplot('111')
     sns.boxplot(x="project", y="differences", data=pd_temp,
-                hue="metrics",
+                hue="experiment",
                 # split=True,
                 # linewidth=2,
                 # width=0.8,

@@ -12,13 +12,19 @@ The state-of-art models and datasets are available as follow:
 - [PtrNet](https://github.com/vode/onlinePtrNet_disentanglement): Implemented by Yu et al.
 
 ## Datasets
-Our dataset is constructed via 
+Our dataset is constructed with two different formats: [original](./data/gitter_dataset/original_format) and [json](./data/gitter_dataset/json_format). Various data formats are intended for different model inputs. 
+
+Moreover, we introduce the addresses of traditional symbolic datasets for referencing and analyzing.
+
 ## Metrics
 The source code of traditional metric is available in [utils.py](./utils.py), including NMI, ARI and Shen-F.
 
 The F1 and DLD require the reformation of predicted data. Since the preprocessing data of intermediate steps are private for other works, we propose the 1st version of reformat code [reformat_e2d_source_data.py](reformat_e2d_source_data.py).
 
 If you need the complete data of annotation and preprocessing, please contact us via [ziyou2019@iscas.ac.cn](mailto:ziyou2019@iscas.ac.cn)
+
+## Experiment Data
+We provide the experiment data of each models and metrics in [experiment](./experiment) fold.
 ## Diagrams
 All diagrams of article are available in [diagrams](./diagrams) directory.
 
