@@ -22,7 +22,7 @@ The source code of traditional metric is available in [utils.py](v1_code/utils.p
 The F1 and DLD require the reformation of predicted data. Since the preprocessing data of intermediate steps are private for all works,
 we only provide the 1st version of reformat code [reformat_e2d_source_data.py](v1_code/reformat_data.py) for reference without bug fixing.
 
-If you need the complete data of annotation and preprocessing, please contact us via [ziyou2019@iscas.ac.cn](mailto:ziyou2019@iscas.ac.cn)
+If you need the complete data of annotation and preprocessing, please contact us via (OUR EMAIL ADDRESS)
 
 ## Experiment Data
 We provide the experiment data of each models and metrics in [experiment](./experiment) fold.
