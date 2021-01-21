@@ -1,0 +1,1933 @@
+class,score,weight
+NMI,0.7063190092608184,Measures
+NMI,0.7056387036296919,Measures
+NMI,0.7190597205435932,Measures
+NMI,0.5844376057979672,Measures
+NMI,1.0,Measures
+NMI,0.9766379587684895,Measures
+NMI,0.9333333333333333,Measures
+NMI,0.9568075184365091,Measures
+NMI,0.7994178303942282,Measures
+NMI,0.633754206101888,Measures
+NMI,0.8583827107533045,Measures
+NMI,0.8674456734986427,Measures
+NMI,0.9312563208154158,Measures
+NMI,1.0,Measures
+NMI,0.5407219603651137,Measures
+NMI,1.0,Measures
+NMI,0.7702716321419006,Measures
+NMI,0.9275585730208221,Measures
+NMI,0.8377452119711747,Measures
+NMI,0.8864650393787022,Measures
+NMI,1.0,Measures
+NMI,1.0,Measures
+NMI,0.9203206878174773,Measures
+NMI,0.6286397746471936,Measures
+NMI,0.9027128836355364,Measures
+NMI,0.75,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.8333333333333334,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.125,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,1.0,Human Satisfaction
+NMI,0.875,Human Satisfaction
+NMI,0.9375,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.9375,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.875,Human Satisfaction
+ARI,0.5358185262942291,Measures
+ARI,0.537098966041645,Measures
+ARI,0.3935504572437029,Measures
+ARI,0.3564788401516931,Measures
+ARI,1.0,Measures
+ARI,0.9975062344139651,Measures
+ARI,0.9,Measures
+ARI,0.9563967417345471,Measures
+ARI,0.663681522423564,Measures
+ARI,0.4586262844780963,Measures
+ARI,0.8316276586277476,Measures
+ARI,0.8429639700883752,Measures
+ARI,0.8952095808383234,Measures
+ARI,1.0,Measures
+ARI,0.2038010848412074,Measures
+ARI,1.0,Measures
+ARI,0.5057803468208092,Measures
+ARI,0.9016782505509409,Measures
+ARI,0.7479929508517721,Measures
+ARI,0.4444444444444445,Measures
+ARI,1.0,Measures
+ARI,1.0,Measures
+ARI,0.9048858937050084,Measures
+ARI,0.43650716074516244,Measures
+ARI,0.827384815055159,Measures
+ARI,0.75,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.8333333333333334,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.125,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,1.0,Human Satisfaction
+ARI,0.875,Human Satisfaction
+ARI,0.9375,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.9375,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.875,Human Satisfaction
+Shen-F,0.8989041095890412,Measures
+Shen-F,0.8193634811281869,Measures
+Shen-F,0.7599999999999999,Measures
+Shen-F,0.8384615384615386,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9844961240310077,Measures
+Shen-F,0.9166666666666666,Measures
+Shen-F,0.989811320754717,Measures
+Shen-F,0.8206521739130435,Measures
+Shen-F,0.8983957219251336,Measures
+Shen-F,0.9055325987144169,Measures
+Shen-F,0.8910394265232975,Measures
+Shen-F,0.9111111111111111,Measures
+Shen-F,1.0,Measures
+Shen-F,0.6035714285714286,Measures
+Shen-F,0.9999999999999999,Measures
+Shen-F,0.7679425837320574,Measures
+Shen-F,0.9823380992430614,Measures
+Shen-F,0.9387755102040816,Measures
+Shen-F,0.9,Measures
+Shen-F,1.0,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9241071428571428,Measures
+Shen-F,0.7200753822540849,Measures
+Shen-F,0.9437500000000001,Measures
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.8333333333333334,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.125,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,1.0,Human Satisfaction
+Shen-F,0.875,Human Satisfaction
+Shen-F,0.9375,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.9375,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.875,Human Satisfaction
+F1,0.6666666666666666,Measures
+F1,0.75,Measures
+F1,0.6,Measures
+F1,0.6,Measures
+F1,0.6666666666666666,Measures
+F1,0.375,Measures
+F1,0.6,Measures
+F1,0.6,Measures
+F1,1.0,Measures
+F1,0.8571428571428571,Measures
+F1,0.0,Measures
+F1,0.5,Measures
+F1,0.8571428571428571,Measures
+F1,0.6,Measures
+F1,0.4,Measures
+F1,0.8571428571428571,Measures
+F1,0.5,Measures
+F1,1.0,Measures
+F1,0.6,Measures
+F1,1.0,Measures
+F1,0.6,Measures
+F1,0.8571428571428571,Measures
+F1,0.75,Measures
+F1,0.5,Measures
+F1,0.8571428571428571,Measures
+F1,0.5,Human Satisfaction
+F1,0.9375,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.125,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.9375,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.875,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.75,Human Satisfaction
+DLD,0.601041163111775,Measures
+DLD,0.8667671266261668,Measures
+DLD,0.4087821298127247,Measures
+DLD,0.6719586674301307,Measures
+DLD,0.5527059362050926,Measures
+DLD,0.48208218986196716,Measures
+DLD,0.6113134162427138,Measures
+DLD,0.5915638659258036,Measures
+DLD,1.0,Measures
+DLD,0.7611119461822036,Measures
+DLD,0.2182195976681357,Measures
+DLD,0.6012009405584643,Measures
+DLD,0.8809620396744551,Measures
+DLD,0.5207619103886629,Measures
+DLD,0.4931816352726226,Measures
+DLD,0.8607065205655609,Measures
+DLD,0.5273203003951736,Measures
+DLD,1.0,Measures
+DLD,0.6579461687285508,Measures
+DLD,1.0,Measures
+DLD,0.5762669635508344,Measures
+DLD,0.8340398538988941,Measures
+DLD,0.6611111111111111,Measures
+DLD,0.28798643825845244,Measures
+DLD,0.7660000056267581,Measures
+DLD,0.5,Human Satisfaction
+DLD,0.9375,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.125,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.9375,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.875,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.75,Human Satisfaction
+NMI,0.9512246886103929,Measures
+NMI,0.9502024297488686,Measures
+NMI,1.0,Measures
+NMI,0.81129739273866,Measures
+NMI,0.5518862881705017,Measures
+NMI,0.8477041157863142,Measures
+NMI,0.8753901989550774,Measures
+NMI,0.8859292619686323,Measures
+NMI,0.803656146163474,Measures
+NMI,0.8317940951537383,Measures
+NMI,0.7400356064612659,Measures
+NMI,0.7205716774407741,Measures
+NMI,0.9416701872433054,Measures
+NMI,0.6573209964396027,Measures
+NMI,1.0,Measures
+NMI,1.0,Measures
+NMI,0.9508214721983258,Measures
+NMI,0.8040233320463274,Measures
+NMI,0.8780880368394124,Measures
+NMI,0.8377220336738537,Measures
+NMI,0.7633033016901889,Measures
+NMI,1.0,Measures
+NMI,0.7554220625719447,Measures
+NMI,0.7048201085624415,Measures
+NMI,0.5,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,1.0,Human Satisfaction
+NMI,0.6666666666666666,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.3333333333333333,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,1.0,Human Satisfaction
+NMI,0.9375,Human Satisfaction
+ARI,0.9901743264659271,Measures
+ARI,0.938137321549966,Measures
+ARI,1.0,Measures
+ARI,0.6061689025731252,Measures
+ARI,0.2755728697358001,Measures
+ARI,0.5748792270531401,Measures
+ARI,0.7857142857142857,Measures
+ARI,0.784,Measures
+ARI,0.6583435906453314,Measures
+ARI,0.6382428940568475,Measures
+ARI,0.5396039603960396,Measures
+ARI,0.12499999999999997,Measures
+ARI,0.8888888888888888,Measures
+ARI,0.45029661817494804,Measures
+ARI,1.0,Measures
+ARI,1.0,Measures
+ARI,0.9711117595564633,Measures
+ARI,0.7519882401718744,Measures
+ARI,0.7364125999673576,Measures
+ARI,0.7328023171614771,Measures
+ARI,0.6796378285302891,Measures
+ARI,1.0,Measures
+ARI,0.44974446337308344,Measures
+ARI,0.5684344236265481,Measures
+ARI,0.5,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,1.0,Human Satisfaction
+ARI,0.6666666666666666,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.3333333333333333,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,1.0,Human Satisfaction
+ARI,0.9375,Human Satisfaction
+Shen-F,0.98125,Measures
+Shen-F,0.9571428571428571,Measures
+Shen-F,1.0,Measures
+Shen-F,0.8317260081965965,Measures
+Shen-F,0.6800505152646883,Measures
+Shen-F,0.7777777777777778,Measures
+Shen-F,0.8766666666666667,Measures
+Shen-F,0.8733333333333334,Measures
+Shen-F,0.9022988505747126,Measures
+Shen-F,0.8874458874458874,Measures
+Shen-F,0.729047619047619,Measures
+Shen-F,0.7321428571428572,Measures
+Shen-F,0.9719298245614034,Measures
+Shen-F,0.7353030303030302,Measures
+Shen-F,1.0,Measures
+Shen-F,1.0,Measures
+Shen-F,0.975,Measures
+Shen-F,0.9449229691876752,Measures
+Shen-F,0.8776923076923078,Measures
+Shen-F,0.8657894736842106,Measures
+Shen-F,0.8066815035999331,Measures
+Shen-F,1.0,Measures
+Shen-F,0.7708333333333334,Measures
+Shen-F,0.8067747239840264,Measures
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,1.0,Human Satisfaction
+Shen-F,0.6666666666666666,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.3333333333333333,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,1.0,Human Satisfaction
+Shen-F,0.9375,Human Satisfaction
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.3333333333333333,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.8571428571428571,Measures
+F1,0.6666666666666666,Measures
+F1,0.75,Measures
+F1,0.8571428571428571,Measures
+F1,0.8571428571428571,Measures
+F1,0.8571428571428571,Measures
+F1,1.0,Measures
+F1,0.75,Measures
+F1,0.8571428571428571,Measures
+F1,0.4,Measures
+F1,1.0,Measures
+F1,0.75,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.375,Measures
+F1,0.6666666666666666,Measures
+F1,0.3125,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.125,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.9375,Human Satisfaction
+F1,0.9375,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.875,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.9375,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.6875,Human Satisfaction
+DLD,0.2914782038004976,Measures
+DLD,0.3420810009046008,Measures
+DLD,0.23303395301353919,Measures
+DLD,0.2744952003791449,Measures
+DLD,0.3741758439100036,Measures
+DLD,0.19143750380554841,Measures
+DLD,0.8147836755128706,Measures
+DLD,0.6952574126822433,Measures
+DLD,0.5392760267657826,Measures
+DLD,0.8607065205655609,Measures
+DLD,0.8791006895018955,Measures
+DLD,0.7560606060608616,Measures
+DLD,1.0,Measures
+DLD,0.7940398538988941,Measures
+DLD,0.8657673561685622,Measures
+DLD,0.5196467179388856,Measures
+DLD,1.0,Measures
+DLD,0.8318222150666231,Measures
+DLD,0.3636843835279199,Measures
+DLD,0.3944878561766468,Measures
+DLD,0.3493964858670741,Measures
+DLD,0.2286978914022883,Measures
+DLD,0.6513221370513321,Measures
+DLD,0.3125,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.125,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.9375,Human Satisfaction
+DLD,0.9375,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.875,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.9375,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+NMI,0.9196676959621665,Measures
+NMI,0.8840333388446567,Measures
+NMI,0.5685141432600331,Measures
+NMI,0.788858312404785,Measures
+NMI,1.0,Measures
+NMI,0.827413348513422,Measures
+NMI,0.7897864049258334,Measures
+NMI,0.8624905261220269,Measures
+NMI,0.8074633348978081,Measures
+NMI,0.8463614592013725,Measures
+NMI,0.6022798799670281,Measures
+NMI,0.8140539574667877,Measures
+NMI,0.6646428460770816,Measures
+NMI,0.8842266943984313,Measures
+NMI,1.0,Measures
+NMI,0.5901045232404343,Measures
+NMI,0.7389055388694504,Measures
+NMI,0.8105879219090323,Measures
+NMI,0.8119748520767044,Measures
+NMI,0.5839845602262238,Measures
+NMI,0.8493299783614834,Measures
+NMI,0.8510155583054115,Measures
+NMI,0.9073229217495745,Measures
+NMI,0.6220874773149783,Measures
+NMI,0.7335036113833576,Measures
+NMI,0.9297102365494723,Measures
+NMI,0.375,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,1.0,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.0625,Human Satisfaction
+NMI,0.1875,Human Satisfaction
+NMI,0.4166666666666667,Human Satisfaction
+ARI,0.9255813953488372,Measures
+ARI,0.9018567639257294,Measures
+ARI,0.28665077473182365,Measures
+ARI,0.5813953488372093,Measures
+ARI,1.0,Measures
+ARI,0.6336464560204953,Measures
+ARI,0.5494934119773581,Measures
+ARI,0.7454545454545455,Measures
+ARI,0.6625072953721363,Measures
+ARI,0.7582697201017813,Measures
+ARI,0.21722846441947566,Measures
+ARI,0.7421875,Measures
+ARI,0.4410894941634242,Measures
+ARI,0.8226754234358797,Measures
+ARI,1.0,Measures
+ARI,0.25801452738363495,Measures
+ARI,0.5680293279333134,Measures
+ARI,0.7584222705381755,Measures
+ARI,0.6172839506172839,Measures
+ARI,0.32066115702479336,Measures
+ARI,0.5645933014354066,Measures
+ARI,0.7705373075143744,Measures
+ARI,0.9508772230471031,Measures
+ARI,0.267503805175038,Measures
+ARI,0.5051125687343655,Measures
+ARI,0.8432655873234585,Measures
+ARI,0.375,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,1.0,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.0625,Human Satisfaction
+ARI,0.1875,Human Satisfaction
+ARI,0.4166666666666667,Human Satisfaction
+Shen-F,0.9107142857142858,Measures
+Shen-F,0.9390589569160996,Measures
+Shen-F,0.8040069686411149,Measures
+Shen-F,0.8642193719593101,Measures
+Shen-F,1.0,Measures
+Shen-F,0.8461538461538463,Measures
+Shen-F,0.7999108734402852,Measures
+Shen-F,0.8730158730158729,Measures
+Shen-F,0.8651948954219688,Measures
+Shen-F,0.8795518207282913,Measures
+Shen-F,0.695906432748538,Measures
+Shen-F,0.8947250280583614,Measures
+Shen-F,0.7310090702947847,Measures
+Shen-F,0.9019607843137254,Measures
+Shen-F,0.9999999999999999,Measures
+Shen-F,0.5599680814354727,Measures
+Shen-F,0.7759523102038506,Measures
+Shen-F,0.8826221728178274,Measures
+Shen-F,0.8590909090909091,Measures
+Shen-F,0.820662768031189,Measures
+Shen-F,0.8095238095238095,Measures
+Shen-F,0.9495192307692307,Measures
+Shen-F,0.9595434764231254,Measures
+Shen-F,0.580781954887218,Measures
+Shen-F,0.7572195383789587,Measures
+Shen-F,0.9610389610389609,Measures
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,1.0,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.0625,Human Satisfaction
+Shen-F,0.1875,Human Satisfaction
+Shen-F,0.4166666666666667,Human Satisfaction
+F1,0.0,Measures
+F1,0.375,Measures
+F1,0.0,Measures
+F1,0.6666666666666666,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.375,Measures
+F1,0.3333333333333333,Measures
+F1,0.0,Measures
+F1,0.25,Measures
+F1,0.4,Measures
+F1,0.6666666666666666,Measures
+F1,0.75,Measures
+F1,0.8571428571428571,Measures
+F1,0.375,Measures
+F1,1.0,Measures
+F1,0.4,Measures
+F1,0.8571428571428571,Measures
+F1,0.6,Measures
+F1,0.375,Measures
+F1,0.0,Measures
+F1,0.6,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.25,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.1875,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.125,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.0625,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.9375,Human Satisfaction
+F1,0.875,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.3125,Human Satisfaction
+DLD,0.3084397747892602,Measures
+DLD,0.4410617698493545,Measures
+DLD,0.14052811263042592,Measures
+DLD,0.5892760555636403,Measures
+DLD,0.3396308047786266,Measures
+DLD,0.44012545835270084,Measures
+DLD,0.2648947182991742,Measures
+DLD,0.4363553303279918,Measures
+DLD,0.3391486811043731,Measures
+DLD,0.2774138491618955,Measures
+DLD,0.6031503238117759,Measures
+DLD,0.7724436815573028,Measures
+DLD,0.8843624345440554,Measures
+DLD,0.8726287063411217,Measures
+DLD,0.553329584131996,Measures
+DLD,1.0,Measures
+DLD,0.49881381131457436,Measures
+DLD,0.7574074075104651,Measures
+DLD,0.6197444808911058,Measures
+DLD,0.5081309919190391,Measures
+DLD,0.3110250179066762,Measures
+DLD,0.6241006915718642,Measures
+DLD,0.3698056250915718,Measures
+DLD,0.3449584141396043,Measures
+DLD,0.25,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.1875,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.125,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.0625,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.9375,Human Satisfaction
+DLD,0.875,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+NMI,1.0,Measures
+NMI,0.7523875744847286,Measures
+NMI,0.8108090027964903,Measures
+NMI,0.8646877344762508,Measures
+NMI,0.8682530320742113,Measures
+NMI,0.8960661106138214,Measures
+NMI,0.9750510826009756,Measures
+NMI,0.7034871900693079,Measures
+NMI,0.8602345859661007,Measures
+NMI,1.0,Measures
+NMI,0.9379733202058751,Measures
+NMI,0.7155040143376407,Measures
+NMI,1.0,Measures
+NMI,0.897706449507158,Measures
+NMI,0.9240164238987353,Measures
+NMI,0.9151467392358676,Measures
+NMI,0.8836263825568998,Measures
+NMI,0.88151277683204,Measures
+NMI,0.8348266848286133,Measures
+NMI,0.8974934246485152,Measures
+NMI,0.7505368685199583,Measures
+NMI,0.9774598481792723,Measures
+NMI,0.8148217754339074,Measures
+NMI,0.7432986949250352,Measures
+NMI,0.7794949394566775,Measures
+NMI,0.3125,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.3333333333333333,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.3333333333333333,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.5833333333333334,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.3333333333333333,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.1875,Human Satisfaction
+ARI,1.0,Measures
+ARI,0.5512239347234814,Measures
+ARI,0.6710044219835755,Measures
+ARI,0.743111139232497,Measures
+ARI,0.8144525086778164,Measures
+ARI,0.8505042187221543,Measures
+ARI,0.9909184121869049,Measures
+ARI,0.39941734825067704,Measures
+ARI,0.8420205817258336,Measures
+ARI,1.0,Measures
+ARI,0.9306084899461166,Measures
+ARI,0.4180961131306675,Measures
+ARI,1.0,Measures
+ARI,0.8890629078569564,Measures
+ARI,0.8886703913553898,Measures
+ARI,0.9273828824985068,Measures
+ARI,0.8651269174352982,Measures
+ARI,0.7756649930562974,Measures
+ARI,0.7505557816952124,Measures
+ARI,0.8551031582862397,Measures
+ARI,0.48991935483870963,Measures
+ARI,0.989405151236568,Measures
+ARI,0.5798509719543694,Measures
+ARI,0.5872536949066565,Measures
+ARI,0.7152751952398662,Measures
+ARI,0.3125,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.3333333333333333,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.3333333333333333,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.5833333333333334,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.3333333333333333,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.1875,Human Satisfaction
+Shen-F,1.0,Measures
+Shen-F,0.8581818181818183,Measures
+Shen-F,0.8738404977375565,Measures
+Shen-F,0.8989858012170386,Measures
+Shen-F,0.8653061224489796,Measures
+Shen-F,0.9494641161307827,Measures
+Shen-F,0.98125,Measures
+Shen-F,0.716931216931217,Measures
+Shen-F,0.8469663473348071,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9844389844389845,Measures
+Shen-F,0.6616820236180642,Measures
+Shen-F,0.9999999999999999,Measures
+Shen-F,0.9518099547511312,Measures
+Shen-F,0.954696499778467,Measures
+Shen-F,0.9707207207207207,Measures
+Shen-F,0.9019748798107177,Measures
+Shen-F,0.8775510204081632,Measures
+Shen-F,0.9185120435120434,Measures
+Shen-F,0.9581994756471326,Measures
+Shen-F,0.7783461210571183,Measures
+Shen-F,0.9849624060150375,Measures
+Shen-F,0.8177971590173136,Measures
+Shen-F,0.8162335150342888,Measures
+Shen-F,0.8496777658431794,Measures
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.3333333333333333,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.3333333333333333,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.5833333333333334,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.3333333333333333,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.1875,Human Satisfaction
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.375,Measures
+F1,0.6666666666666666,Measures
+F1,0.375,Measures
+F1,0.0,Measures
+F1,0.5,Measures
+F1,0.3333333333333333,Measures
+F1,0.4,Measures
+F1,0.3333333333333333,Measures
+F1,0.0,Measures
+F1,0.375,Measures
+F1,0.0,Measures
+F1,0.6,Measures
+F1,0.8571428571428571,Measures
+F1,1.0,Measures
+F1,0.6,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.375,Measures
+F1,0.375,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.25,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.125,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.1875,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.1875,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.5625,Human Satisfaction
+DLD,0.2813543479875507,Measures
+DLD,0.21250121544084533,Measures
+DLD,0.21814404790111422,Measures
+DLD,0.5874168462185984,Measures
+DLD,0.4290597732059832,Measures
+DLD,0.11248453953812926,Measures
+DLD,0.3051695684595226,Measures
+DLD,0.23985275263322428,Measures
+DLD,0.5505251614685331,Measures
+DLD,0.412292352739818,Measures
+DLD,0.3340297096619731,Measures
+DLD,0.46853977075134245,Measures
+DLD,0.23451387444667376,Measures
+DLD,0.4194129281808251,Measures
+DLD,0.8340398538988941,Measures
+DLD,1.0,Measures
+DLD,0.7114719831607739,Measures
+DLD,0.2101272330118323,Measures
+DLD,0.19543368400553857,Measures
+DLD,0.20278870024198747,Measures
+DLD,0.42933962259154523,Measures
+DLD,0.38303151632953775,Measures
+DLD,0.19674374528900845,Measures
+DLD,0.3988454176471698,Measures
+DLD,0.25,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.125,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.1875,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.1875,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+NMI,0.6827714947527558,Measures
+NMI,0.9294966938428247,Measures
+NMI,0.8636812721457484,Measures
+NMI,0.7770431245328582,Measures
+NMI,0.8603629462696104,Measures
+NMI,0.8402511144819101,Measures
+NMI,0.8583393581573837,Measures
+NMI,0.853437557245214,Measures
+NMI,0.8842192783573664,Measures
+NMI,0.8136530260779272,Measures
+NMI,0.9599795202565852,Measures
+NMI,0.9200625111439561,Measures
+NMI,1.0,Measures
+NMI,1.0,Measures
+NMI,0.8631460566365773,Measures
+NMI,0.8722929469347114,Measures
+NMI,0.9497340507985272,Measures
+NMI,1.0,Measures
+NMI,0.8931135337261618,Measures
+NMI,0.8332269086328166,Measures
+NMI,1.0,Measures
+NMI,1.0,Measures
+NMI,0.8658823153248255,Measures
+NMI,0.9171340598608969,Measures
+NMI,0.75,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.5833333333333334,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.125,Human Satisfaction
+NMI,1.0,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.1875,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+ARI,0.44041450777202074,Measures
+ARI,0.9348598499802605,Measures
+ARI,0.8653624856156502,Measures
+ARI,0.5906879777623351,Measures
+ARI,0.6405228758169935,Measures
+ARI,0.43999999999999995,Measures
+ARI,0.6733668341708543,Measures
+ARI,0.7383197599657094,Measures
+ARI,0.9600085245202908,Measures
+ARI,0.5789473684210527,Measures
+ARI,0.9404486203930391,Measures
+ARI,0.6341463414634146,Measures
+ARI,1.0,Measures
+ARI,1.0,Measures
+ARI,0.7486398258977149,Measures
+ARI,0.7693194925028836,Measures
+ARI,0.9619238476953907,Measures
+ARI,1.0,Measures
+ARI,0.9147336889344216,Measures
+ARI,0.7128087306145894,Measures
+ARI,1.0,Measures
+ARI,1.0,Measures
+ARI,0.6763990267639902,Measures
+ARI,0.711340206185567,Measures
+ARI,0.75,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.5833333333333334,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.125,Human Satisfaction
+ARI,1.0,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.1875,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+Shen-F,0.8575,Measures
+Shen-F,0.9813983995802177,Measures
+Shen-F,0.8783068783068781,Measures
+Shen-F,0.8512531328320803,Measures
+Shen-F,0.9027777777777778,Measures
+Shen-F,0.8500000000000001,Measures
+Shen-F,0.8714285714285714,Measures
+Shen-F,0.9414414414414414,Measures
+Shen-F,0.9333333333333333,Measures
+Shen-F,0.8833333333333333,Measures
+Shen-F,0.9784615384615385,Measures
+Shen-F,0.8888888888888888,Measures
+Shen-F,1.0,Measures
+Shen-F,1.0,Measures
+Shen-F,0.8995726495726496,Measures
+Shen-F,0.8875000000000001,Measures
+Shen-F,0.9699248120300752,Measures
+Shen-F,1.0,Measures
+Shen-F,0.8999497234791353,Measures
+Shen-F,0.8582222222222223,Measures
+Shen-F,1.0,Measures
+Shen-F,1.0,Measures
+Shen-F,0.8814285714285715,Measures
+Shen-F,0.925,Measures
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.5833333333333334,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.125,Human Satisfaction
+Shen-F,1.0,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.1875,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+F1,0.6,Measures
+F1,0.375,Measures
+F1,0.6,Measures
+F1,0.6666666666666666,Measures
+F1,0.8571428571428571,Measures
+F1,0.6666666666666666,Measures
+F1,0.6,Measures
+F1,0.375,Measures
+F1,0.5,Measures
+F1,0.375,Measures
+F1,0.4,Measures
+F1,1.0,Measures
+F1,0.4,Measures
+F1,0.4,Measures
+F1,0.5,Measures
+F1,0.0,Measures
+F1,0.5,Measures
+F1,0.4,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.8571428571428571,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.8571428571428571,Measures
+F1,0.75,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,1.0,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.875,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.875,Human Satisfaction
+DLD,0.6855515655355506,Measures
+DLD,0.4481233978153242,Measures
+DLD,0.5766695212857041,Measures
+DLD,0.6461019987147764,Measures
+DLD,0.8657673561685622,Measures
+DLD,0.7267293958430171,Measures
+DLD,0.705962039674455,Measures
+DLD,0.3075220827190054,Measures
+DLD,0.4477782610518456,Measures
+DLD,0.4387288114825489,Measures
+DLD,0.48596203967445506,Measures
+DLD,1.0,Measures
+DLD,0.4623141199268975,Measures
+DLD,0.579163418678246,Measures
+DLD,0.4396594441172785,Measures
+DLD,0.3849886157976829,Measures
+DLD,0.485212635684099,Measures
+DLD,0.628211037725865,Measures
+DLD,0.3167658200841991,Measures
+DLD,0.5186976796477065,Measures
+DLD,0.8657673561685622,Measures
+DLD,0.39641566471807654,Measures
+DLD,0.6091634186782459,Measures
+DLD,0.8511827110417512,Measures
+DLD,0.75,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,1.0,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.875,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.875,Human Satisfaction
+NMI,1.0,Measures
+NMI,0.8815127768320399,Measures
+NMI,0.9541910637339721,Measures
+NMI,0.8883779819638099,Measures
+NMI,0.8029314240397455,Measures
+NMI,0.9317269819580046,Measures
+NMI,0.7970435273498571,Measures
+NMI,0.9520564299446128,Measures
+NMI,0.9284010330780351,Measures
+NMI,1.0,Measures
+NMI,0.8837527712416249,Measures
+NMI,0.6256407279307086,Measures
+NMI,0.8486349524211311,Measures
+NMI,0.5581747860336608,Measures
+NMI,0.7398863310446793,Measures
+NMI,0.8741126341168736,Measures
+NMI,0.8863467522880502,Measures
+NMI,0.892085280765144,Measures
+NMI,1.0,Measures
+NMI,1.0,Measures
+NMI,0.807179660569693,Measures
+NMI,0.9510420752443769,Measures
+NMI,0.75,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.5833333333333334,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+ARI,1.0,Measures
+ARI,0.7756649930562974,Measures
+ARI,0.946057115994829,Measures
+ARI,0.9619047619047619,Measures
+ARI,0.5254237288135594,Measures
+ARI,0.9542433604195332,Measures
+ARI,0.6383037357043857,Measures
+ARI,0.9347826086956522,Measures
+ARI,0.9138979216739714,Measures
+ARI,1.0,Measures
+ARI,0.8289326567472263,Measures
+ARI,0.1950477244432148,Measures
+ARI,0.6560268794624108,Measures
+ARI,0.15592028135990624,Measures
+ARI,0.49632892804698975,Measures
+ARI,0.6239554317548747,Measures
+ARI,0.8148148148148149,Measures
+ARI,0.708502024291498,Measures
+ARI,1.0,Measures
+ARI,1.0,Measures
+ARI,0.5940520446096654,Measures
+ARI,0.9683794466403162,Measures
+ARI,0.75,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.5833333333333334,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+Shen-F,1.0,Measures
+Shen-F,0.8775510204081632,Measures
+Shen-F,0.9682539682539683,Measures
+Shen-F,0.8968253968253967,Measures
+Shen-F,0.8472222222222222,Measures
+Shen-F,0.9636752136752138,Measures
+Shen-F,0.7805227354099534,Measures
+Shen-F,0.9707602339181286,Measures
+Shen-F,0.9644042232277525,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9711934156378601,Measures
+Shen-F,0.5963386727688788,Measures
+Shen-F,0.846938775510204,Measures
+Shen-F,0.5620490620490621,Measures
+Shen-F,0.831983805668016,Measures
+Shen-F,0.8749999999999999,Measures
+Shen-F,0.9166666666666666,Measures
+Shen-F,0.9382716049382718,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9999999999999999,Measures
+Shen-F,0.865934065934066,Measures
+Shen-F,0.9647058823529412,Measures
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.5833333333333334,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+F1,0.6666666666666666,Measures
+F1,0.6,Measures
+F1,0.4,Measures
+F1,0.6666666666666666,Measures
+F1,0.4,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.4,Measures
+F1,0.375,Measures
+F1,0.6,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.375,Measures
+F1,0.6,Measures
+F1,0.8571428571428571,Measures
+F1,0.4,Measures
+F1,0.75,Measures
+F1,0.6666666666666666,Measures
+F1,0.75,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.875,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.6875,Human Satisfaction
+DLD,0.6944091107429549,Measures
+DLD,0.5589685668502417,Measures
+DLD,0.5453344979733155,Measures
+DLD,0.6817750134638041,Measures
+DLD,0.5078483521147215,Measures
+DLD,0.21843202168853654,Measures
+DLD,0.2491247486681617,Measures
+DLD,0.6169597259323873,Measures
+DLD,0.5265054177373641,Measures
+DLD,0.31747401111282686,Measures
+DLD,0.7232620462846808,Measures
+DLD,0.39105898902598535,Measures
+DLD,0.4495692831514722,Measures
+DLD,0.2737302903336801,Measures
+DLD,0.5926462131819721,Measures
+DLD,0.47771748850051576,Measures
+DLD,0.5670184996399283,Measures
+DLD,0.8657673561685622,Measures
+DLD,0.412489194860829,Measures
+DLD,0.7309716983965291,Measures
+DLD,0.6952574126822433,Measures
+DLD,0.75,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.875,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+NMI,0.8826606098504578,Measures
+NMI,1.0,Measures
+NMI,0.8467288594388667,Measures
+NMI,0.9277361601979058,Measures
+NMI,0.9530987803400073,Measures
+NMI,0.9259111477247396,Measures
+NMI,0.8828023182100891,Measures
+NMI,0.9053855452359714,Measures
+NMI,0.9266616459517276,Measures
+NMI,0.6981192724817123,Measures
+NMI,0.9333627216095495,Measures
+NMI,0.5422345347765882,Measures
+NMI,0.9596679941779582,Measures
+NMI,1.0,Measures
+NMI,0.8461446570717812,Measures
+NMI,0.969340779795613,Measures
+NMI,0.960778277981434,Measures
+NMI,0.7652410979674614,Measures
+NMI,0.9575218213166298,Measures
+NMI,0.7440278089249469,Measures
+NMI,0.9509387605224542,Measures
+NMI,0.9111920163122247,Measures
+NMI,0.4481829528298569,Measures
+NMI,0.8587113187093788,Measures
+NMI,0.9045073907209101,Measures
+NMI,0.5034577841320919,Measures
+NMI,0.6666666666666666,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.875,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.875,Human Satisfaction
+NMI,0.125,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.1875,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.25,Human Satisfaction
+NMI,0.4166666666666667,Human Satisfaction
+NMI,0.6875,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+ARI,0.7504110489970405,Measures
+ARI,1.0,Measures
+ARI,0.7858080928202847,Measures
+ARI,0.9126607559890522,Measures
+ARI,0.947938774596603,Measures
+ARI,0.9250926520082241,Measures
+ARI,0.8490077653149266,Measures
+ARI,0.9195437377458592,Measures
+ARI,0.8792640858566501,Measures
+ARI,0.5742214807412713,Measures
+ARI,0.9608274337591336,Measures
+ARI,0.21766768242734033,Measures
+ARI,0.9613594599578392,Measures
+ARI,1.0,Measures
+ARI,0.7955569642930971,Measures
+ARI,0.9738813538543838,Measures
+ARI,0.9631728045325779,Measures
+ARI,0.526821702567979,Measures
+ARI,0.9602037567653614,Measures
+ARI,0.45826689093252365,Measures
+ARI,0.9683097052438331,Measures
+ARI,0.8719748753002032,Measures
+ARI,0.23119089388283345,Measures
+ARI,0.8295184868933966,Measures
+ARI,0.8773630634997577,Measures
+ARI,0.232414791797721,Measures
+ARI,0.6666666666666666,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.875,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.875,Human Satisfaction
+ARI,0.125,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.1875,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.25,Human Satisfaction
+ARI,0.4166666666666667,Human Satisfaction
+ARI,0.6875,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+Shen-F,0.9254658385093167,Measures
+Shen-F,0.9999999999999999,Measures
+Shen-F,0.8829431438127091,Measures
+Shen-F,0.9829059829059827,Measures
+Shen-F,0.9845189483487355,Measures
+Shen-F,0.9716840177366493,Measures
+Shen-F,0.9480272108843537,Measures
+Shen-F,0.9420278967736594,Measures
+Shen-F,0.9752380952380952,Measures
+Shen-F,0.8905751402688928,Measures
+Shen-F,0.9559748427672955,Measures
+Shen-F,0.6945754716981132,Measures
+Shen-F,0.9944055944055944,Measures
+Shen-F,1.0,Measures
+Shen-F,0.8676256157635469,Measures
+Shen-F,0.9919015225137673,Measures
+Shen-F,0.9487179487179487,Measures
+Shen-F,0.7776100628930818,Measures
+Shen-F,0.9781818181818182,Measures
+Shen-F,0.7446887351778656,Measures
+Shen-F,0.9555555555555555,Measures
+Shen-F,0.9489177489177489,Measures
+Shen-F,0.7337694920487879,Measures
+Shen-F,0.9689054726368159,Measures
+Shen-F,0.9231884057971015,Measures
+Shen-F,0.7233044733044734,Measures
+Shen-F,0.6666666666666666,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.875,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.875,Human Satisfaction
+Shen-F,0.125,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.1875,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.25,Human Satisfaction
+Shen-F,0.4166666666666667,Human Satisfaction
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+F1,0.5,Measures
+F1,0.6,Measures
+F1,0.3333333333333333,Measures
+F1,0.375,Measures
+F1,0.4,Measures
+F1,0.375,Measures
+F1,0.0,Measures
+F1,0.5,Measures
+F1,0.375,Measures
+F1,0.6,Measures
+F1,0.3333333333333333,Measures
+F1,0.75,Measures
+F1,0.4,Measures
+F1,0.6666666666666666,Measures
+F1,0.4,Measures
+F1,0.3333333333333333,Measures
+F1,0.6,Measures
+F1,0.6,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.6666666666666666,Measures
+F1,0.6666666666666666,Measures
+F1,0.375,Measures
+F1,0.375,Measures
+F1,0.5,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.125,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.875,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.25,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.3125,Human Satisfaction
+F1,0.5,Human Satisfaction
+DLD,0.47826206157979223,Measures
+DLD,0.6443882859546479,Measures
+DLD,0.22316598294870116,Measures
+DLD,0.44862027190738996,Measures
+DLD,0.3877889576816965,Measures
+DLD,0.5483620594007959,Measures
+DLD,0.16805548765428174,Measures
+DLD,0.7056067177079186,Measures
+DLD,0.4715774478838565,Measures
+DLD,0.5865222786315062,Measures
+DLD,0.5680729732772363,Measures
+DLD,0.854623541656735,Measures
+DLD,0.36235627575530455,Measures
+DLD,0.7533960625096838,Measures
+DLD,0.5827174233788754,Measures
+DLD,0.34709309941102384,Measures
+DLD,0.41673651014391844,Measures
+DLD,0.659055440633117,Measures
+DLD,0.3634499256875372,Measures
+DLD,0.46957552913399164,Measures
+DLD,0.6363383837604767,Measures
+DLD,0.6925477605703952,Measures
+DLD,0.37479957128161356,Measures
+DLD,0.5051165923542039,Measures
+DLD,0.5,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.125,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.875,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.25,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.3125,Human Satisfaction
+DLD,0.5,Human Satisfaction
+NMI,0.9403263465472399,Measures
+NMI,1.0,Measures
+NMI,0.9191380366113747,Measures
+NMI,0.969538320118607,Measures
+NMI,0.8210889622500728,Measures
+NMI,0.8400873378924948,Measures
+NMI,0.7330601067116389,Measures
+NMI,0.9459574626317261,Measures
+NMI,0.945973471845167,Measures
+NMI,0.9560488738987177,Measures
+NMI,0.8291239000287387,Measures
+NMI,0.7854009247155466,Measures
+NMI,0.9196593471354342,Measures
+NMI,0.49430301678739336,Measures
+NMI,0.9251266935744437,Measures
+NMI,1.0,Measures
+NMI,0.6921053873251107,Measures
+NMI,0.959482855551489,Measures
+NMI,1.0,Measures
+NMI,1.0,Measures
+NMI,0.8798469544688222,Measures
+NMI,0.7109399309199746,Measures
+NMI,0.8175839417275224,Measures
+NMI,0.7552014529814723,Measures
+NMI,0.6875,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.5,Human Satisfaction
+NMI,0.1875,Human Satisfaction
+NMI,0.1875,Human Satisfaction
+NMI,0.8125,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.3333333333333333,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.875,Human Satisfaction
+NMI,0.4375,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.3125,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.5833333333333334,Human Satisfaction
+NMI,0.625,Human Satisfaction
+NMI,0.75,Human Satisfaction
+NMI,0.375,Human Satisfaction
+NMI,0.5625,Human Satisfaction
+ARI,0.963369633696337,Measures
+ARI,1.0,Measures
+ARI,0.9327354260089686,Measures
+ARI,0.9902357704215289,Measures
+ARI,0.5498676081200353,Measures
+ARI,0.6582006796637453,Measures
+ARI,0.39534883720930236,Measures
+ARI,0.960098219766728,Measures
+ARI,0.9749194937686276,Measures
+ARI,0.974849557803147,Measures
+ARI,0.7727550397067807,Measures
+ARI,0.5769500350455592,Measures
+ARI,0.9178575575236493,Measures
+ARI,0.25830780108413853,Measures
+ARI,0.8011049723756906,Measures
+ARI,1.0,Measures
+ARI,0.6248578363972773,Measures
+ARI,0.9762150982419855,Measures
+ARI,1.0,Measures
+ARI,1.0,Measures
+ARI,0.8120649651972157,Measures
+ARI,0.3749098774333093,Measures
+ARI,0.7393109568634909,Measures
+ARI,0.6619093017630234,Measures
+ARI,0.6875,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.5,Human Satisfaction
+ARI,0.1875,Human Satisfaction
+ARI,0.1875,Human Satisfaction
+ARI,0.8125,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.3333333333333333,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.875,Human Satisfaction
+ARI,0.4375,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.3125,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.5833333333333334,Human Satisfaction
+ARI,0.625,Human Satisfaction
+ARI,0.75,Human Satisfaction
+ARI,0.375,Human Satisfaction
+ARI,0.5625,Human Satisfaction
+Shen-F,0.9705705705705706,Measures
+Shen-F,0.9999999999999999,Measures
+Shen-F,0.935672514619883,Measures
+Shen-F,0.986449864498645,Measures
+Shen-F,0.8074675324675324,Measures
+Shen-F,0.8872785829307569,Measures
+Shen-F,0.8091908091908091,Measures
+Shen-F,0.9519230769230769,Measures
+Shen-F,0.9655555555555555,Measures
+Shen-F,0.962121212121212,Measures
+Shen-F,0.8303571428571429,Measures
+Shen-F,0.771505376344086,Measures
+Shen-F,0.9831751509922347,Measures
+Shen-F,0.8197162426614484,Measures
+Shen-F,0.9333333333333333,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9350249903883122,Measures
+Shen-F,0.9761904761904762,Measures
+Shen-F,1.0,Measures
+Shen-F,1.0,Measures
+Shen-F,0.9040564373897708,Measures
+Shen-F,0.7543650793650793,Measures
+Shen-F,0.8591666666666667,Measures
+Shen-F,0.8730158730158729,Measures
+Shen-F,0.6875,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.5,Human Satisfaction
+Shen-F,0.1875,Human Satisfaction
+Shen-F,0.1875,Human Satisfaction
+Shen-F,0.8125,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.3333333333333333,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.875,Human Satisfaction
+Shen-F,0.4375,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.3125,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.5833333333333334,Human Satisfaction
+Shen-F,0.625,Human Satisfaction
+Shen-F,0.75,Human Satisfaction
+Shen-F,0.375,Human Satisfaction
+Shen-F,0.5625,Human Satisfaction
+F1,0.6666666666666666,Measures
+F1,0.6666666666666666,Measures
+F1,0.4,Measures
+F1,0.25,Measures
+F1,0.0,Measures
+F1,0.75,Measures
+F1,0.6666666666666666,Measures
+F1,0.6666666666666666,Measures
+F1,0.0,Measures
+F1,0.4,Measures
+F1,0.375,Measures
+F1,0.4,Measures
+F1,0.5,Measures
+F1,0.8571428571428571,Measures
+F1,0.4,Measures
+F1,0.6666666666666666,Measures
+F1,0.6,Measures
+F1,0.375,Measures
+F1,0.6,Measures
+F1,0.3333333333333333,Measures
+F1,0.375,Measures
+F1,0.6666666666666666,Measures
+F1,0.25,Measures
+F1,0.3333333333333333,Measures
+F1,0.6875,Human Satisfaction
+F1,0.75,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.1875,Human Satisfaction
+F1,0.1875,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.375,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.8125,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.4375,Human Satisfaction
+F1,0.6875,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.625,Human Satisfaction
+F1,0.5625,Human Satisfaction
+F1,0.5,Human Satisfaction
+F1,0.625,Human Satisfaction
+DLD,0.6491439708724882,Measures
+DLD,0.7091719765505479,Measures
+DLD,0.515479045095228,Measures
+DLD,0.2832384532516298,Measures
+DLD,0.3260096148734416,Measures
+DLD,0.7735461792712293,Measures
+DLD,0.6224869249673939,Measures
+DLD,0.5934324415360628,Measures
+DLD,0.22347023290410115,Measures
+DLD,0.5177250821337994,Measures
+DLD,0.3502881456617375,Measures
+DLD,0.39664335073190066,Measures
+DLD,0.5124597299613554,Measures
+DLD,0.8657673561685622,Measures
+DLD,0.6058300853449126,Measures
+DLD,0.6235976985891838,Measures
+DLD,0.5011130046844603,Measures
+DLD,0.4967141127997358,Measures
+DLD,0.7169500672103133,Measures
+DLD,0.3789782198990581,Measures
+DLD,0.5318431335781836,Measures
+DLD,0.5480455533212191,Measures
+DLD,0.3815821990070297,Measures
+DLD,0.3988157893219404,Measures
+DLD,0.6875,Human Satisfaction
+DLD,0.75,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.1875,Human Satisfaction
+DLD,0.1875,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.375,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.8125,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.4375,Human Satisfaction
+DLD,0.6875,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.625,Human Satisfaction
+DLD,0.5625,Human Satisfaction
+DLD,0.5,Human Satisfaction
+DLD,0.625,Human Satisfaction

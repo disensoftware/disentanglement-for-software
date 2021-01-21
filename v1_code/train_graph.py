@@ -1,6 +1,8 @@
+'''
+This is the 1st version of train_graph.py, which need further reformation and modification
+'''
 import matplotlib.pyplot as plt
 import mpl_toolkits.axisartist as axisartist
-import matplotlib
 
 import seaborn as sns
 
@@ -8,8 +10,7 @@ import seaborn as sns
 from pandas import np
 import scipy
 import pandas as pd
-from reformat_e2d_source_data import *
-from scipy.interpolate import make_interp_spline
+from v1_code.reformat_data import *
 
 
 def draw_line_comparison():

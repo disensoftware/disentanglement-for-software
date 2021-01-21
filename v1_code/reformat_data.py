@@ -1,8 +1,10 @@
-import xlrd, xlwt
+'''
+This is the 1st version of reformat_data.py, which need further reformation and modification
+'''
+import xlrd
 import datetime
-import json, os
-import utils
-from sklearn import preprocessing
+import json
+from v1_code import utils
 import numpy as np
 N_CLUSTER = 4
 
