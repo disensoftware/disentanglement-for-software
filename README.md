@@ -32,7 +32,7 @@ We provide the experiment data of each models and metrics in [experiment](./expe
 
 The performance of DLD is shown as follows:
 
-| Analysis | RMSE | MAE | PEA | IST | PST | ANOVA
+| Analysis | RMSE | MAE | PEA | IST | PST | ANOVA |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | NMI | 0.38 | 0.34 | 0.08 | e-55 | e-46 | e-55 |
 | ARI | 0.37 | 0.32 | 0.02 | e-19 | e-17 | e-19 |
